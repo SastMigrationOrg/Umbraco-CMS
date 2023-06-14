@@ -1,0 +1,9 @@
+{
+  "scanSettingsSAST": {
+    "enableScan": true,
+    "scanPullRequests": true,
+    "enableRemediation": false,
+    "incrementalScan": true,
+    "snippetSize": 0
+  }
+}
